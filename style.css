@@ -1,0 +1,685 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar1{
+    background-color:#151a22;
+    height:60px;
+    display: flex;
+    position: relative;
+    cursor: pointer;
+}
+.photo{
+    height:60px;
+    padding: 1px 8px;
+    
+}
+.logo{
+    display:flex;
+    gap:0px;
+}
+.one{
+    color:white;
+    font-size: 20px;
+    padding-top:15px;
+    margin-right: 5px;
+}
+.deliver{
+    color:#A2B9A7;
+    font-size:14px;
+    
+}
+.location{
+    padding: 5px;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.update{
+    font-weight: 700;
+    color: white;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.add-icon{
+    color: white;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.option{
+    background-color: rgb(199, 184, 184);
+    color: black;
+    font-size: 15px;
+    height: 40px;
+    width: 60px;
+    justify-items: center;
+    border-radius: 3px;
+    margin-left: 10px;
+    padding: 5px 10px;
+}
+.search{
+    padding-top: 5px;
+    margin-left:30px ;
+    gap:0px;
+    position: relative;
+    display: flex;
+   
+}
+.placeholder{
+    background-color: white;
+    color: gray;
+    height: 30px;
+    width:450px;
+    border-radius: 5px;
+    padding:5px 5px;
+   
+}
+.search-icon{
+    color: black;
+    background-color: orange;
+    border-radius: 5px;
+    height:25px;
+    width:25px;
+    position: static;
+    padding:8px;
+    padding-top: 9px;
+    font-size: 25px;
+}
+body{
+    background-image: url(https://litcommerce.com/blog/wp-content/uploads/2023/02/selling-methods-on-amazon.webp);
+    background-origin: padding-box;
+}
+.navbar2{
+    background-color: #333446;
+    height:40px;
+    display: flex;
+    position: relative;
+    cursor: pointer;
+}
+.language{
+    padding-top: 25px;
+    margin-left: 20px;
+}
+.english{
+    background-color:#151a22; 
+    color: white;
+    border: none;
+    
+}
+.hello{
+    color:white;
+    margin-top:17px;
+    margin-left:20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.account{
+    color: white;
+    border: none;
+    background-color: #151a22; 
+    margin-bottom: 5px;
+    margin-left: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.order{
+    font-weight: bolder;
+    font-size: 13px;
+}
+.return{
+    color: white;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.sign-in{
+    margin-left:10px;
+}
+.add{
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+.last{
+    margin-top: 30px;
+    margin-left: 0px;
+    color: white;
+    font-weight: bolder;
+}
+.cart{
+    display: flex;
+}
+.add-icon2{
+    color: white;
+   margin-top:10px;
+   margin-left: 10px;
+   font-size: 20px;
+}
+.all{
+    color:white;
+    font-size:17px ;
+    margin-top:10px;
+    margin-left: 5px;
+    font-weight: bolder;
+}
+.second{
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+     
+     
+}
+.fresh{
+    margin-top: 12px;
+    margin-left: 23px;
+    font-size: 13px;
+    height:12px;
+}
+.player{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.sell{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.bestseller{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.today{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.mobile{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.prime{
+     margin-top: 0px;
+    margin-left: 20px;
+    font-size: 13px;
+    background-color:  #333446;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.service{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.fashion{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.new{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.pay{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.electronic{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.home{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.car{
+     margin-top: 12px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.box1{
+    background-color: white;
+    height:500px;
+    width:300px;
+    margin-top: 250px;
+    margin-left: 30px;
+}
+.box2{
+   background-color:white;
+    height:500px;
+    width:300px;
+    margin-top: 250px;
+    margin-left: 30px; 
+}
+.box3{
+    background-color:white;
+    height:500px;
+    width:300px;
+    margin-top: 250px;
+    margin-left: 30px;
+}
+.box4{
+    background-color:white;
+    height:500px;
+    width:300px;
+    margin-top: 250px;
+    margin-left: 30px;
+}
+.box{
+    position: relative;
+    display:flex;
+}
+.ho{
+    font-weight:bolder;
+    font-size:20px ;
+}
+.off{
+    font-weight:bolder;
+    font-size:20px ;
+    margin-left: 20px;
+}
+.revamp{
+    font-weight:bolder;
+    font-size:20px ;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.start{font-weight:bolder;
+    font-size:20px ;
+     margin-top: 12px;
+    margin-left: 20px;
+}
+.headphone{font-weight:bolder;
+    font-size:20px ;
+    
+    margin-left: 20px;
+}
+.under{
+    font-weight:bolder;
+    font-size:20px ;
+     margin-top: 12px;
+    margin-left: 20px;
+}
+.improve{
+    font-weight:bolder;
+    font-size:20px ;
+    margin-left: 20px;
+}
+.ac{
+    height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.air{
+    margin-left: 90px;
+}
+.frige{
+     height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.refrig{
+    margin-left: 90px;
+}
+.machine{
+     height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.washing{
+    margin-left: 90px;
+}
+.takiya{
+   height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px; 
+}
+.cusion{
+    margin-left: 90px;
+}
+.statue{
+    height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.stat{
+    margin-left: 90px;
+}
+.pot{
+    height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.pots{
+    margin-left: 90px;
+}
+.buds{
+    height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.ear{
+    margin-left: 90px;
+}
+.d{
+    height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.e{
+    margin-left: 90px;
+}
+.f{
+    height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.g{
+    margin-left: 90px;
+}
+
+.i{height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.j{
+    margin-left: 90px;
+}
+.k{height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.l{
+    margin-left: 90px;
+}
+.m{height:110px;
+    width:250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.n{
+    margin-left: 90px;
+}
+.navbar3{
+    background-color: #333446;
+    height:40px;
+    display: flex;
+    position: relative;
+    cursor: pointer;
+}
+.navbar4{
+    background-color:#222e41;
+    height:450px;
+    display: flex;
+    position: relative;
+    cursor: pointer;
+}
+.back{
+    color: white;
+    margin-top: 10px;
+    margin-left: 650px;
+}
+.o{
+     font-weight:bolder;
+    
+     
+    margin-left: 20px;
+}
+.p{
+     font-weight:bolder;
+    
+    
+    margin-left: 20px;
+}
+.q{
+    color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.r{
+    color: gray;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.s{color: gray;
+    font-size: 15px;
+   margin-top: 10px;
+    margin-left: 20px;
+}
+.t{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.u{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.connect{
+    font-weight:bolder;
+    
+     
+    margin-left: 20px;
+}
+.us{
+    font-weight:bolder;
+    
+     
+    margin-left: 20px;
+}
+.x{
+     color: gray;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.y{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.z{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.v{
+    display: flex;
+    
+}
+.w{
+     color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.money{
+     font-weight:bolder;
+    
+     
+    margin-left: 20px;
+}
+.you{
+     color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.a1{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a2{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a3{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a4{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a5{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a6{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a7{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a8{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a9{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.a10{
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.make{
+    color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.b8{
+    color: white;
+    margin-left: 150px;
+    margin-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.you{
+    font-weight:bolder;
+    
+     
+    margin-left: 20px;
+}
+.b1{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.b2{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.b3{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.b4{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.b5{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.b6{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.b7{
+     color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.navbar5{
+   background-color:#222e41;
+    height:100px;
+    display: flex;
+    position: relative;
+    cursor: pointer;
+}
+.c2{
+    height:50px;
+   margin-top: 30px;
+   margin-left: 400px;
+}
+.d4{
+    display: flex;
+}
+.c3{
+    background-color: #222e41;
+    color: white;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.d1{
+    background-color: #222e41;
+    color: white;
+    margin-left: 10px;
+    margin-top: 40px;
+}
